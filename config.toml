@@ -48,13 +48,13 @@ copyright = "© {year}"
 
 # Controls the navigation
 [[menu.main]]
-  identifier = "about"
-  name = "about"
-  title = "About"
-  url = "/about"
+  identifier = "overview"
+  name = "Overview"
+  title = "Overview"
+  url = "/overview"
 
 [[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "Blog"
-  url = "/blog"
+  identifier = "quick-start"
+  name = "Quick Start"
+  title = "Quick Start"
+  url = "/quick-start"
