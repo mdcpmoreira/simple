@@ -4,3 +4,7 @@
 
 [context.production.environment]
    HUGO_VERSION = "0.72.0"
+
+[build]
+  publish = "public"
+  command = "git submodule update --init --recursive && hugo"
